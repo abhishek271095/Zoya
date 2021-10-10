@@ -1,0 +1,79 @@
+	.main_banner
+		{
+			height: 100vh;
+			background-image: url("image/yoga1.jpg");
+			background-size: cover;
+			background-position: 0px -190px;
+			background-blend-mode: darken;
+			background-color: #580972a8;
+			background-attachment: fixed;
+		}
+		h1
+		{
+			
+		}
+		i 
+		{
+			font-size: 30px;
+		}
+		.banner1
+	{
+		height: 450px;
+		background-image: url("image/banner4.jpg");
+		background-size: cover;
+		/*background-blend-mode: darken;
+		background-color: red;
+		align-items: center;*/
+
+	}
+	.banner2
+	{
+	    height: 450px;
+	    background-image: url("image/banner5.jpg");
+		background-size: cover;
+	/*	background-blend-mode: darken;
+		background-color: green;
+		align-items: center;*/
+	}
+/*	**************************
+	carousel-indicators icon shapes css*/
+	.carousel-indicators li {
+    border-radius: 12px;
+    width: 12px;
+    height: 12px;
+    background-color: white;
+	}
+	.carousel-indicators > li {
+  border-radius: 50%;
+	}
+/*	***************************/
+	.why_us
+	{
+		background-image: url("image/yoga5.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		-
+	}
+	.lion
+	{
+		height: 200px;
+		width: 200px;
+
+	}
+	.pattern_color
+	{
+		color: #17a2b8;
+	}
+	.pattern
+	{
+		background-color: #cd066b;
+	}
+	.bg-dark 
+	{
+      background-color: rgba(255, 0, 0, 0);
+      padding-top: 20px;
+	}
+	.section2
+	{
+		
+	}
